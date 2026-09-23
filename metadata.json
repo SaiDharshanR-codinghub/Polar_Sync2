@@ -1,0 +1,6 @@
+{
+  "name": "POLARSYNC - Polar Expedition Logistics & Asset Management",
+  "description": "Integrated Polar Expedition Logistics & Asset Management System for NCPOR & Smart India Hackathon 2026 Problem Statement 26062",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
